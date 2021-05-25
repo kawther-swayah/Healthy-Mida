@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro&family=Dancing+Script:wght@400;429&display=swap');
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding:0;
+    margin: 0;
+} 
+
+
+h2{
+    background-color:rgb(219, 213, 213) ;
+    padding: 25px  ;
+    font-family: 'Dancing Script',cursive;
+    color:gray;
+    font-size: 2em;
+    text-align: center;
+    margin-left: 1000px;
+    margin-top:30px;
+    width:200px;
+}
+
+h1{ text-align:center;
+    margin:  0px ;
+    padding :50px 650px ;
+    font-size:27px;
+    background-image: url(image/egger-pro-epl109-orech-mansonia.jpg);
+    background-size: 5em;
+    margin-top:-35px;
+     text-align: center;
+    font-family: 'Dancing Script',cursive;
+    color:white;
+    font-size: 3em;
+}
+
+#designe{
+    background-color: #9E744C;
+    padding: 25px ;
+ 
+   
+    margin-left: 475px;
+    margin-top:10px;
+    width:700px;
+   
+}
+
+#partie1{
+    padding: 20px 50px 0px 100px;
+    background-color:white;
+
+}
+p {
+    font-family: 'dancing script' ,cursive;
+    text-align: center;
+    color:#797672;
+    font-size: 25px;
+
+}
+h3{
+    font-family: 'dancing script' ,cursive;
+    text-align: center;
+    color:#797672;
+    font-size: 25px;
+
+}
+table td{
+ background-color:rgb(219, 213, 213);
+margin :50px;
+}

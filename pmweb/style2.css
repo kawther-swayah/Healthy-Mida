@@ -1,0 +1,93 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Advent+Pro&family=Dancing+Script:wght@400;429&display=swap');
+h3{
+    
+    background-color:rgb(219, 213, 213) ;
+    padding: 25px  ;
+    font-family: 'Dancing Script',cursive;
+    color:gray;
+    font-size: 2em;
+    text-align: center;
+    margin-left: 1000px;
+    margin-top:50px;
+    width:200px;
+}
+body{
+    
+    background-color:rgb(228, 222, 222) ;
+
+}
+h1{ text-align:center;
+    margin:  0px ;
+    padding :50px 650px ;
+    font-size:27px;
+    background-image: url(image/egger-pro-epl109-orech-mansonia.jpg);
+    background-size: 5em;
+    margin-top:-35px;
+     text-align: center;
+    font-family: 'Dancing Script',cursive;
+    color:white;
+    font-size: 3em;
+}
+body{
+overflow-x: hidden;
+}
+
+
+
+
+#designe{
+    background-color: #9E744C;
+    padding: 25px ;
+ 
+   
+    margin-left: 475px;
+    margin-top:10px;
+    width:700px;
+   
+}
+#deco{
+    margin-top:0px;
+    margin-left:100px;
+    left:50%;
+    height:500px ;
+    width: 100%;
+    max-width: 700px;
+    
+  background-color:rgb(219, 213, 213);
+}
+h2{
+    margin-top: 0cm;
+
+    font-family: 'dancing script' ,cursive;
+    text-align: center;
+    color:#797672;
+    font-size: 35px;
+
+}
+pre{
+    text-align: top left;
+    font-family: 'dancing script' ,cursive;
+    color:#797672;
+    font-size: 25px;
+
+}
+#mp{
+    margin-top: -350px;
+    margin-left:900px;
+   position: absolute;
+  
+    
+    max-width: 50px;
+    /* width: 30%; */
+   
+    
+}
+#mp iframe{
+    width: 350px;
+    height:300px ;
+    
+  
+}
+
+
